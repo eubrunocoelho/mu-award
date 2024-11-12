@@ -32,7 +32,7 @@
     * Notícias
     * Rodapé
 * **Downloads**
-    * Tabela de downloads
+    * Downloads
     * Requisitos
     * Drivers
 * **Informações**
@@ -94,6 +94,7 @@
 ### **Estilização**
 * [**CSS3**](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [**Sass/SCSS**](https://sass-lang.com)
+* [**Google Fonts**](https://fonts.google.com)
 
 ### **IDEs, Versionamento, Deploy**
 * [**Visual Studio Code**](https://code.visualstudio.com)
@@ -106,4 +107,4 @@
 * **E-mail:**
     * *eu.brunocoelho94@gmail.com*
 * **WhatsApp:**
-    * *(41) 998738-9397 (somente texto)*
+    * *(41) 98738-9397 (somente texto)*
