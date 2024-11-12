@@ -5,7 +5,7 @@
 * [**Screenshots**](./screenshots/)
 
 <hr />
-<p><i>Para adquirir entre em <a href="#contact">contato</a>.</i></p>
+<p><i>Para adquirir entre em <a href="#contato">contato</a>.</i></p>
 
 ## **Sumário**
 * [**Sobre o MU Award Theme**](#sobre)
