@@ -21,7 +21,7 @@
 <h1 align="center"><img src="./.screenshots/home-1024w.png"></h1>
 <h1 align="center"><img src="./.screenshots/home-768w.png"></h1>
 <h1 align="center"><img src="./.screenshots/home-500w.png"></h1>
-<h1 align="center"><img src="./.screenshots/home-336w.png"></h1>
+<h1 align="center"><img src="./.screenshots/home-320w.png"></h1>
 
 <span id="downloads"></span>
 ## **Downloads**
